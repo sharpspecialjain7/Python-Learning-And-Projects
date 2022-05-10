@@ -1,0 +1,11 @@
+Variables in Python
+-------------------
+-> a variable is a storage unit which can store data.
+-> variables can be reused
+-> data in variables can be changed
+-> Variable naming rules
+    -> should make sense
+    -> should be one single unit -> X no spaces
+    -> multiple words separated by _
+    -> no reserved words
+    -> camel casing firstName
