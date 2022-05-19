@@ -46,3 +46,8 @@ print("\nSeparator in print()")
 print("Hello","\t","World")
 print("Hello","\t","World",sep=">>>")
 
+# f strings in python
+name = "Abhishek"
+age = "31"
+print(f"Hello {name}. You are {age} years old")
+
