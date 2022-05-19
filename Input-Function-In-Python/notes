@@ -1,5 +1,0 @@
-Input Function in Python
-------------------------
--> input() is used to input data from console 
--> syntax: input("What is your name")
--> We are basically asking user to provide input to program. Example: Selection criteria, Yes / No 
