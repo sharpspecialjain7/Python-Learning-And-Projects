@@ -1,9 +1,11 @@
 def printFullName(firstName, lastName):
+    """Returns full name"""
     fullName = firstName + " " + lastName
     print(fullName)
 
 
 def returnName(name):
+    """Returns name"""
     return name
 
 
